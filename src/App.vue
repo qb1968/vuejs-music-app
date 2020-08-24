@@ -104,6 +104,7 @@ export default {
 }
 body {
 	font-family: sans-serif;
+  background-image: url('./assets/music.jpg');
 }
 header {
 	display: flex;
